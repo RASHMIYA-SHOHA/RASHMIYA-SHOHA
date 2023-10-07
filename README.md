@@ -1,13 +1,24 @@
 <p align="center"><img src="https://github.com/RASHMIYA-SHOHA/RASHMIYA-SHOHA/blob/master/Image/IMG_20231006_234555_432.jpg">
+  
+```text
+I'm a night 🦉
 
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
+🌆 Daytime    85 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+🌃 Evening    128 commits    █████████░░░░░░░░░░░░░░░░   37.65%
+🌙 Night      70 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59%
+
+```
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/N/h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/N/n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/N/n) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@N/n) 
 
 ### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="81" height="81" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="81" height="81" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="81" height="81" /></div>
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmiya-Shoha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RASHMIYA-SHOHA&theme=vue)  
 ![](https://github-readme-stats.vercel.app/api?username=Rashmiya-Shoha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rashmiya-Shoha&theme=dark&hide_border=false)<br/>
 
