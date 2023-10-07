@@ -1,5 +1,7 @@
 <p align="center"><img src="https://github.com/RASHMIYA-SHOHA/RASHMIYA-SHOHA/blob/master/Image/IMG_20231006_234555_432.jpg">
-  
+
+![Rule34](https://count.getloli.com/get/@RASHMIYA-SHOHA?theme=rule34)
+
 ```text
 I'm a night 🦉
 
