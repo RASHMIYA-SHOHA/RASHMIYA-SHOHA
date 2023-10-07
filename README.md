@@ -30,6 +30,23 @@ I'm a night 🦉
 ---
 [![](https://visitcount.itsvg.in/api?id=Rashmiya-Shoha&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### GITHUB STATE:
+
+<h3 align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASHMIYA-SHOHA&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
+        </a>
+    </div>
+
+
+![U7P4L-IN](https://github-readme-stats.vercel.app/api?username=RASHMIYA-SHOHA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<img src="https://metrics.lecoq.io/RASHMIYA-SHOHA?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+</p>  
+  
+![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=RASHMIYA-SHOHA&theme=dark&hide_border=false)<br/>
+
   ### 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/N/h) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/N/n) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/N/h) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/N/h) 
 
