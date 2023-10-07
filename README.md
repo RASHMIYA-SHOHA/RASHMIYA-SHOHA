@@ -25,10 +25,9 @@ I'm a night 🦉
 
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rashmiya-Shoha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rashmiya-Shoha&theme=radical&no-frame=false&no-bg=false&margin-w=10)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rashmiya-Shoha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### GITHUB STATE:
 
