@@ -1,7 +1,6 @@
 <p align="center"><img src="https://github.com/RASHMIYA-SHOHA/RASHMIYA-SHOHA/blob/master/Image/IMG_20231006_234555_432.jpg">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+[![](https://visitcount.itsvg.in/api?id=Rashmiya-Shoha&icon=0&color=0)](https://visitcount.itsvg.in)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
 
 
 ![Rule34](https://count.getloli.com/get/@RASHMIYA-SHOHA?theme=rule34)
@@ -19,10 +18,11 @@ I'm a night 🦉
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/N/h) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/N/n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/N/n) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@N/n) 
 
-### 💻 Tech Stack:
+# 💻 Tech Stack:
+<h3 align="center">
 
-<p align="center">
-<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 50px; margin-bottom: 50px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="81" style="width: 81px; height: 81px; margin-right: 0px; margin-bottom: 0px;" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="69" height="69" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /></div>
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rashmiya-Shoha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
