@@ -1,5 +1,9 @@
 <p align="center"><img src="https://github.com/RASHMIYA-SHOHA/RASHMIYA-SHOHA/blob/master/Image/IMG_20231006_234555_432.jpg">
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bomb.png" alt="Bomb" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Beating Heart" width="25" height="25" />
+
+
 ![Rule34](https://count.getloli.com/get/@RASHMIYA-SHOHA?theme=rule34)
 
 ```text
